@@ -1,0 +1,10 @@
+{
+	"kmz Maker":
+	{
+		"description":"create kmz",
+		"command":"Adebeo::DanielTall_GEMaker::KmzMaker.new()",
+		"isMenu":true,
+		"isToolbar":false,
+		"isContext":false
+	}		
+}
